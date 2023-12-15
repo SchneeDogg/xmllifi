@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Straßenverkehr>
+  <Fahrzeuginformationen>
+    <Geschwindigkeit />
+    <blinker>
+      <GewollteFahrtrichtung />
+      <GewollterSpurwechsel />
+    </blinker>
+  </Fahrzeuginformationen>
+  <Straßeninformationen>
+    <Wechsellichtzeichenanlage>
+      <phase />
+      <Dauerbisnächstephase />
+    </Wechsellichtzeichenanlage>
+  </Straßeninformationen>
+  <Dauerlichtzeichenanlage>
+    <Zeichen />
+  </Dauerlichtzeichenanlage>
+  <Hindernisse>
+    <Bauerbeiten />
+    <Unfälle />
+  </Hindernisse>
+</Straßenverkehr>
